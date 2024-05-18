@@ -1,0 +1,15 @@
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\bin\Debug\net6.0\PartThreeExercises.exe
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\bin\Debug\net6.0\PartThreeExercises.deps.json
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\bin\Debug\net6.0\PartThreeExercises.runtimeconfig.json
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\bin\Debug\net6.0\PartThreeExercises.dll
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\bin\Debug\net6.0\ref\PartThreeExercises.dll
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\bin\Debug\net6.0\PartThreeExercises.pdb
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.csproj.AssemblyReference.cache
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.AssemblyInfoInputs.cache
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.AssemblyInfo.cs
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.csproj.CoreCompileInputs.cache
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.dll
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\ref\PartThreeExercises.dll
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.pdb
+C:\Users\rotem\source\repos\PartThreeExercises\PartThreeExercises\obj\Debug\net6.0\PartThreeExercises.genruntimeconfig.cache

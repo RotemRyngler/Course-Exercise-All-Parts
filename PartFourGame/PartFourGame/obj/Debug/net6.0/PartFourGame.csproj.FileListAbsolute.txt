@@ -1,0 +1,15 @@
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\bin\Debug\net6.0\PartFourGame.exe
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\bin\Debug\net6.0\PartFourGame.deps.json
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\bin\Debug\net6.0\PartFourGame.runtimeconfig.json
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\bin\Debug\net6.0\PartFourGame.dll
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\bin\Debug\net6.0\ref\PartFourGame.dll
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\bin\Debug\net6.0\PartFourGame.pdb
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.csproj.AssemblyReference.cache
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.AssemblyInfoInputs.cache
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.AssemblyInfo.cs
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.csproj.CoreCompileInputs.cache
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.dll
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\ref\PartFourGame.dll
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.pdb
+C:\Users\rotem\source\repos\PartFourGame\PartFourGame\obj\Debug\net6.0\PartFourGame.genruntimeconfig.cache
